@@ -24,4 +24,5 @@
     "eslint-config-next": "15.3.1",
     "@eslint/eslintrc": "^3"
   }
+  
 }
